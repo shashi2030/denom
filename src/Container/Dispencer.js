@@ -43,7 +43,7 @@ class Dispencer extends Component{
             <div className="container">
                 <div className="get-money-form container-box">
                         <div className="row">
-                            <label>Enter the Amounsstddddsssdss</label>
+                            <label>Enter the Amounsstddddssssssssdss</label>
                             <input type="number" name="amount" onChange={this.handleChange} />
                         </div>
                         <button className="btn" onClick={this.getMoney}>Get Rupees </button>
